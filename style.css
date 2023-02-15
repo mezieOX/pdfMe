@@ -1,0 +1,17 @@
+.customBG4 {
+    background: #007bff;
+    background: -moz-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,121,112,1) 35%, rgba(0,255,184,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,121,112,1) 35%, rgba(0,255,184,1) 100%);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,121,112,1) 35%, rgba(0,255,184,1) 100%);
+}
+  
+.main__bg {
+    background-color: rgba(2,0,36,1);
+}
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    } 
+body {
+    top: 0px !important; 
+    }
